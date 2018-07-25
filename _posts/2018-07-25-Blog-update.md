@@ -1,3 +1,8 @@
+---
+title: Derrick's Front-End Experience
+Date: 2018-07-25
+---
+
 title: Derrick's FrontEnd Experience
 author: Derrick Pine
 email: your-email@domain.com
