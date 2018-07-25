@@ -1,6 +1,6 @@
 ---
-title: Derrick's Front-End Experience
-Date: 2018-07-25
+title: "Derrick's Front-End Experience"
+date: 2018-07-25
 ---
 
 title: Derrick's FrontEnd Experience
